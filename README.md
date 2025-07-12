@@ -87,3 +87,7 @@ sender_password = "your_app_password"  # Use an App Password for Gmail
 
 ## License
 - This project is licensed under the [MIT License](LICENSE).
+
+## Contribution
+All modifications are welcome. Feel free to fork the repository and create a pull request with your improvements or fixes.  
+For any questions or suggestions, feel free to contact me via [email](mailto:komikhalils091@gmail.com).
