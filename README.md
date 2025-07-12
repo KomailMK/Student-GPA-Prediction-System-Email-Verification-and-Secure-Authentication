@@ -92,6 +92,6 @@ sender_password = "your_app_password"  # Use an App Password for Gmail
 All modifications are welcome. Feel free to fork the repository and create a pull request with your improvements or fixes. 
 
 ## Contact
-For any questions or suggestions, feel free to contact me via [email](mailto:komikhalils091@gmail.com).
-Connect with me on [LinkedIn](https://www.linkedin.com/in/komailahmad/).
+0- For any questions or suggestions, feel free to contact me via [email](mailto:komikhalils091@gmail.com).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/komailahmad/).
 
