@@ -70,3 +70,17 @@ python app.py
 ```bash
 http://127.0.0.1:5000/
 ```
+
+##  Email Configuration
+- The project uses Python's smtplib to send emails. Make sure to update the following with your credentials in .env file:
+```bash
+sender_email = "your_email@example.com"
+sender_password = "your_app_password"  # Use an App Password for Gmail
+```
+## Future Improvements
+- Switch from plain .txt to a database like SQLite/PostgreSQL.
+- Add password reset via email.
+- Track prediction history per user.
+
+## License
+- This project is licensed under the [MIT License](LICENSE).
