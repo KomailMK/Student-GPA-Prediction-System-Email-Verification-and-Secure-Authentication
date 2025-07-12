@@ -54,11 +54,19 @@ Create a virtual environment and install dependencies:
 pip install -r requirements.txt
 
 ```
-## Requirenments Include
+##  Usage
+#### 1. Clone the repository:
+```bash
+git clone https://github.com/your-username/gpa-prediction-system.git
+cd gpa-prediction-system
+```
 
-- flask
-- scikit-learn
-- joblib
-- numpy
-- werkzeug
+#### 2. Run the Flask app:
+```bash
+python app.py
+```
 
+#### 3. Open your browser and go to:
+```bash
+http://127.0.0.1:5000/
+```
