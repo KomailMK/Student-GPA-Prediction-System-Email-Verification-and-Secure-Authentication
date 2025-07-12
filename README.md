@@ -1,5 +1,8 @@
 # Student GPA Prediction System with Email Verification and Secure Authentication
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 ## Overview
 
 This project is a secure and intelligent web application built with **Flask** that predicts a student's GPA based on key academic inputs. It ensures strong authentication practices with email verification and password hashing for data protection.
